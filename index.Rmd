@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about elephants"
+title: "Wattpad, dénicheur de talents"
 site: distill::distill_website
 listing: posts
 ---

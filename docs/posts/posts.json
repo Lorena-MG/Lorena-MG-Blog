@@ -1,20 +1,32 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : ",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Lorena Marques Gonçalves",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
+    "date": "2019-10-15",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-15T13:45:39+02:00"
+  },
+  {
+    "path": "posts/2019-10-15-nom-de-votre-article/",
+    "title": "nom-de-votre-article",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lorena Marques Gonçalves",
+        "url": {}
+      }
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:42:58+02:00"
+    "date": "2019-10-15",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-15T12:15:36+02:00"
   }
 ]
