@@ -1,11 +1,11 @@
 ---
-title: "Une maison d'édition pour Wattpad, avec un algorithme comme éditeur"
+title: "Wattpad, le café littéraire des adolescents"
 description: |
-  A short description of the post.
+  A la découverte de Wattpad, nouveau lieu d'échange littéraire pour jeunes écrivains en herbe.
 author:
   - name: Lorena Marques Gonçalves
     url: {}
-date: 10-15-2019
+date: 10-21-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+![](wattpad.png)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+# Wattpad, qu'est-ce que c'est?
+Wattpad est un réseau social canadien, créé en 2006, permettant à ses utilisateurs de lire et écrire des histoires qui sont publiées charpitre par chapitre. Les lecteurs peuvent laisser des commentaires chaque chapitre. ces commentaires sont par la suite utiliser par l'auteur pour améliorer son histoire.
+L'entreprise a misé sur le mobile, et ça a bien fonctionné puisque 90% des connexions se font sur téléphone ou tablette. Ce chiffre est surtout dû au jeune âge des utilisateurs.
+Wattpad compte aujourd'hui 40 millions d'utilisateurs mensuels.
 
+# Variété de lecture
+
+
+# Différence avec les autres sites de lecture
+
+
+Source: <https://www.lefigaro.fr/secteur/high-tech/2015/07/24/32001-20150724ARTFIG00268-wattpad-le-cafe-litteraire-des-adolescents.php>

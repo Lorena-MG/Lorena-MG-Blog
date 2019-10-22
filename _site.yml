@@ -14,5 +14,6 @@ navbar:
 base_url: https://Lorena-MG.github.io/Lorena-MG-Blog/
 collections:
     posts:
+      disqus: lorena-mg-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
