@@ -18,14 +18,20 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](wattpad.png)
 
 # Wattpad, qu'est-ce que c'est?
-Wattpad est un réseau social canadien, créé en 2006, permettant à ses utilisateurs de lire et écrire des histoires qui sont publiées charpitre par chapitre. Les lecteurs peuvent laisser des commentaires chaque chapitre. ces commentaires sont par la suite utiliser par l'auteur pour améliorer son histoire.
+Wattpad est un réseau social canadien, créé en 2006, permettant à ses utilisateurs de lire et écrire des histoires qui sont publiées chapitre par chapitre. Les lecteurs peuvent laisser des commentaires à chaque chapitre. Ces commentaires sont, par la suite, utilisés par l'auteur pour améliorer son histoire.
 L'entreprise a misé sur le mobile, et ça a bien fonctionné puisque 90% des connexions se font sur téléphone ou tablette. Ce chiffre est surtout dû au jeune âge des utilisateurs.
 Wattpad compte aujourd'hui 40 millions d'utilisateurs mensuels.
 
 # Variété de lecture
+Les histoires, ayant obtenues le plus de succès, sont basées sur le même thème : une adolescente au fort caractère qui réussi à faire tomber un garçon, dont l'apparence est celle d'une idole de la *pop adolescente*, amoureux d'elle. On peut citer comme exemple *"Condoms"*, qui met en scène Cameron Dallas et d'autres stars de Vine. Même si le style et l'orthographe sont négligés, l'imagination quant à elle est bien stimulée.
+Un autre genre souvent rencontré est la fanfiction. Ce sont, cette fois, des récifs reprenant un univers fictif et ses personnages, et, donnant lieu à une histoire parallèle. Les univers utilisés évoulent selon les générations.
+On y retrouve également beaucoup de récifs de science-fiction et de fantasy.
+En plus d'histoires variées, on retrouve des listes de lectures regroupant un ensemble d'histoire du même genre.
 
-
-# Différence avec les autres sites de lecture
-
+# Les atouts de Wattpad
+Avant Wattpad, des sites, permettant aux amateurs d'écrire leurs histoires, existaient déjà, comme *Fanfiction.net* ou encore *An Archive of our own*. Mais il y avait également des plateformes qui hébergaient de nombreuses fanfictions. Parmi ces plateformes, on retrouve *Tumblr* et *Skyrock*.
+Contrairement à ces plateformes, **Wattpad a mieux su s'adapter à l'ère mobile**. A partir du moment qu'une histoire se trouve dans votre bibliothèque, vous recevez une notification vous prévenant de chaque nouveau chapitre.
+Il a également su **s'adapter à tous les âges**, les personnes d'un âge plus mûr peuvent également trouver des histoires à leur goût.Il suffit por cela de faire la bonne recherche.
+Les commentaires laissés par les lecteurs peuvent **servir de critique comme à faire une promotion**. 
 
 Source: <https://www.lefigaro.fr/secteur/high-tech/2015/07/24/32001-20150724ARTFIG00268-wattpad-le-cafe-litteraire-des-adolescents.php>
