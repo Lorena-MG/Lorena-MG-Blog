@@ -5,7 +5,7 @@ favicon: "images/logo.png"
 navbar:
   left:
    logo: 
-    image: "images/logo2.png"
+    image: "images/logo.png"
   right:
     - text: "Home"
       href: index.html
