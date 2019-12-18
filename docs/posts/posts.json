@@ -1,7 +1,22 @@
 [
   {
-    "path": "posts/2019-12-03-plateforme-numrique-au-papier/",
-    "title": "Wattpad : les auteurs de la plate-forme numérique à l'assaut du livre papier",
+    "path": "posts/2019-12-18-denicheuse-de-talent/",
+    "title": "La plateforme Wattpad dénicheuse de talents pour Netflix",
+    "description": "Le partenariat qui profite aux 2 structures.",
+    "author": [
+      {
+        "name": "Lorena Marques Gonçalves",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-18",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-18T19:04:42+01:00"
+  },
+  {
+    "path": "posts/2019-12-03-plateforme-numerique-au-papier/",
+    "title": "Wattpad : les auteurs de la plateforme numérique à l'assaut du livre papier",
     "description": "Les succès de la plateforme passent aux papiers.",
     "author": [
       {
@@ -12,7 +27,7 @@
     "date": "2019-12-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-12-17T20:43:40+01:00"
+    "last_modified": "2019-12-18T19:07:14+01:00"
   },
   {
     "path": "posts/Wattpad-le-café-littéraire-des-adolescents/",

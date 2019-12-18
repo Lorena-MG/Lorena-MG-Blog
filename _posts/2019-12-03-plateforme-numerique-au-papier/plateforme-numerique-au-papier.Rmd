@@ -1,5 +1,5 @@
 ---
-title: "Wattpad : les auteurs de la plate-forme numérique à l'assaut du livre papier"
+title: "Wattpad : les auteurs de la plateforme numérique à l'assaut du livre papier"
 description: |
   Les succès de la plateforme passent aux papiers.
 author:
